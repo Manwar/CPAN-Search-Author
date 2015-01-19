@@ -195,6 +195,10 @@ sub as_string {
 
 Mohammad S Anwar, C<< <mohammad.anwar at yahoo.com> >>
 
+=head1 REPOSITORY
+
+L<https://github.com/Manwar/CPAN-Search-Author>
+
 =head1 BUGS
 
 Please   report  any bugs or feature requests to C<bug-cpan-search-author at rt.cpan.org>,
